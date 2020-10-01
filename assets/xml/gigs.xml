@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gigs>
+<issue>
+<issue_num>1</issue_num>
+<day>SAT</day>
+<date>MAY 29</date>
+<time>9pm</time>
+<venue>Boo Boo's</venue>
+<location>Hoboken, NJ</location>
+<phone>(201) 659-1789</phone>
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>THU</day>
+<date>JUNE 3</date>
+<time>10pm</time>
+<venue>Filthy McNasty's</venue>
+<location>Seneca Falls, NY</location>
+<phone>(315) 568-2323</phone>
+</issue>
+<issue_num>1</issue_num>
+<day>FRI</day>
+<date>JUNE 4</date>
+<time>10pm</time>
+<venue>Old City Hall</venue>
+<location>Oswego, NY</location>
+<phone>(315) 343-2012</phone>
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>SAT</day>
+<date>JUNE 5</date>
+<time>10pm</time>
+<venue>East LA (Orange Grove)</venue>
+<location>Syracuse, NY</location>
+<phone>(315) 471-1148</phone>
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>TUE</day>
+<date>JUNE 15</date>
+<time>10pm</time>
+<venue>Lonestar Roadhouse</venue>
+<location>New York, </location>
+<phone>(212) 245-2950</phone>
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>THU</day>
+<date>JUNE 17</date>
+<time>10pm</time>
+<venue>Desmond's Tavern</venue>
+<location>New York, NY</location>
+<phone>(212) 826-1858</phone>
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>FRI</day>
+<date>JUNE 25</date>
+<time>10pm</time>
+<venue>The Hotel Rhinecliff</venue>
+<location>Rhinecliff, NY</location>
+<phone>(914) 876-8688</phone> 
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>SAT</day>
+<date>JUNE 26</date>
+<time>10pm</time>
+<venue>Flannery's w/ Valium Effort</venue>
+<location>New York, NY</location>
+<phone>(212) 220-2122</phone> 
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>TUE</day>
+<date>JUNE 29</date>
+<time>3pm</time>
+<venue>MTV's Alternative Nation Tour w/Spin Doctors*</venue>
+<location>Weedsport Raceway, NY</location>
+<phone>(315) 655-2527</phone> 
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>SAT</day>
+<date>JULY 3</date>
+<time>10pm</time>
+<venue>The Court Tavern</venue>
+<location>New Brunswick, NJ</location>
+<phone>(908) 545-7265</phone> 
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>TUE</day>
+<date>JULY 6</date>
+<time>10pm</time>
+<venue>Scandals</venue>
+<location>Ocean City, MD</location>
+<phone>(410) 723-0500</phone> 
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>THU</day>
+<date>JULY 15</date>
+<time>3pm</time>
+<venue>w/The Spin Doctors</venue>
+<location>Middletown, NY</location>
+<phone>(212) 260-8030</phone> 
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>SAT</day>
+<date>JULY 31</date>
+<time>10pm</time>
+<venue>Joyous Lake, NY</venue>
+<location>Woodstock, NY</location>
+<phone>(914) 679-4916</phone> 
+</issue>
+<issue>
+<issue_num>1</issue_num>
+<day>SUN</day>
+<date>AUG 1</date>
+<time>3pm</time>
+<venue>Polish Picnic</venue>
+<location>Greenfield, MA</location>
+<phone>(413) 773-9025</phone> 
+</issue>
+</gigs>
