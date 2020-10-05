@@ -1,9 +1,9 @@
-const GigFields={
-  'Day': null,
-  'Date': null,
-  'Time': null,
-  'Venue': null,
-  'Location': null,
-  'Phone': null
-};
+const GigFields=[
+  'Day',
+  'Date',
+  'Time',
+  'Venue',
+  'Location',
+  'Phone'
+];
 

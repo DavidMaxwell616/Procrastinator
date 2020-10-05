@@ -8,12 +8,7 @@
 hr.pageBreak {
   border: 5px solid black;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
 .vBottom {
     position: absolute;
     top: 100%;
@@ -24,7 +19,10 @@ hr.pageBreak {
     left: 0%;
     transform: translateX(-25%); 
 }
-
+table, th, td {
+  border: 1px solid black;
+}
+</style>
 </style>
 </head>
 <body>
@@ -52,23 +50,24 @@ hr.pageBreak {
   </div>
   <hr class="pageBreak">
   <div class="row">
-    <div class="col-3">
-      <img  class="center" src="../assets/images/scott.png"><br>
+    <div class="col-md-2">
+      <img  src="../assets/images/scott.png"><br>
       <h2 class="vBottom">Scott Lehr - Percussion & Vocals</h2>
     </div>
-    <div class="col-6">
+    <div class="col-md-8">
       <h2>MUD DATES FOR JUNE & JULY</h2>
-      <table id="gigs"></table>
-    </div>
-    <div class="col-3">
-      <img  class="center" src="../assets/images/don.png"><br>
+        <table style='font-size:80%' id="gigs">
+        </table>
+      </div>
+    <div class="col-md-2">
+      <img src="../assets/images/don.png"><br>
       <h2 class="vBottom">Don Martin - Bass</h2>
     </div>
   </div>
   <hr class="pageBreak">
   <div class="row">
       <div class="col-4">
-        <img class="center" src="../assets/images/logo.png"><br>
+        <img src="../assets/images/logo.png"><br>
         <h2 >325 E. 21st Street #12</h2>
         <h2 >New York, NY 10003</h2>
       </div>
@@ -81,7 +80,8 @@ hr.pageBreak {
       </div>
   </div>
 </div>
-  <script src="../js/functions.js"></script>
+<script src="../js/boot.js"></script>
+<script src="../js/functions.js"></script>
   <script>
     loadXMLDoc(1);
   </script>

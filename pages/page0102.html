@@ -5,62 +5,85 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> 
 <link rel="stylesheet" href="../css/goudystyle.css"></link>
 <style>
-/* Thick red border */
-hr.new {
+hr.pageBreak {
   border: 5px solid black;
 }
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+
+.vBottom {
+    position: absolute;
+    top: 100%;
+    transform: translateY(-100%); 
 }
+.hLeft-25pct{
+  position: absolute;
+    left: 0%;
+    transform: translateX(-25%); 
+}
+table, th, td {
+  border: 1px solid black;
+}
+</style>
 </style>
 </head>
 <body>
-  <hr class="new">
-  <div class="row">
-    <div class="col-2 alert alert-primary">
-      <img src="../assets/images/matt.png"><br>
-      <h3>Matt Pedone - Drums</h3>
-    </div>
-        <div class="col-7 alert alert-primary">
-          <h1>The Procrastinator</h1><br>
-            <img src="../assets/images/Hector.png" class="center"><br>
-           <h3>Hector Enqrique Agave - Mudmanager</h3>
-        </div>
-        <div class="col-2 alert alert-primary">
-          <img src="../assets/images/Dave&Mark.png"><br>
-          <h3>Dave Parsons & Mark Czuj - Rock Stars</h3>
-            </div>
+
+  <div class="container-fluid">
+
+  <hr class="pageBreak">
  
+      <div class="row">
+    <div class="col-3">
+      <img src="../assets/images/matt.png"><br>
+      <h2 class="vBottom">Matt Pedone - Drums</h2>
+    </div>
+        <div class="col-6">
+          <h1><span>&#8734;</span> The Procrastinator <span>&#8734;</span></h1><br>
+            <img src="../assets/images/Hector.png" class="center"><br>
+           <h2 >Hector Enqrique Agave - MudManager</h2>
+        </div>
+        <div class="col-md-3">
+          <img class="hLeft-25pct" src="../assets/images/Dave&Mark.png"> 
+          <h2 class="vBottom">Dave Parsons & Mark Czuj - Rock Stars</h2>
+      </div>
     </div>
   </div>
-  <hr class="new">
+  </div>
+  <hr class="pageBreak">
   <div class="row">
-    <div class="col-4 alert alert-primary">
-      <img src="../assets/images/scott.png"><br>
-      <h3>Scott Lehr - Percussion & Vocals</h3>
+    <div class="col-md-2">
+      <img  src="../assets/images/scott.png"><br>
+      <h2 class="vBottom">Scott Lehr - Percussion & Vocals</h2>
     </div>
-    <div class="col-4 alert alert-primary">
-      7
-    </div>
-    <div class="col-4 alert alert-primary">
+    <div class="col-md-8">
+      <h2>MUD DATES FOR JUNE & JULY</h2>
+        <table style='font-size:80%' id="gigs">
+        </table>
+      </div>
+    <div class="col-md-2">
       <img src="../assets/images/don.png"><br>
-      <h3>Don Martin - Bass</h3>
+      <h2 class="vBottom">Don Martin - Bass</h2>
     </div>
   </div>
-  <hr class="new">
+  <hr class="pageBreak">
   <div class="row">
-      <div class="col-4 alert alert-primary">
+      <div class="col-4">
         <img src="../assets/images/logo.png"><br>
+        <h2 >325 E. 21st Street #12</h2>
+        <h2 >New York, NY 10003</h2>
       </div>
-      <div class="col-4 alert alert-primary">
-        <h2>EXCLUSIVE: MAN SEES MUD!</h2>
+      <div class="col-4">
+        
+        <h2 class="vBottom">EXCLUSIVE: MAN SEES MUD!</h2>
       </div>
-      <div class="col-4 alert alert-primary">
+      <div class="col-4">
         
       </div>
   </div>
+</div>
+<script src="../js/boot.js"></script>
+<script src="../js/functions.js"></script>
+  <script>
+    loadXMLDoc(1);
+  </script>
 </body>
 </html>

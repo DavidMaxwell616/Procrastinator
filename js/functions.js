@@ -1,30 +1,41 @@
-function loadXMLDoc(i) {
+function loadXMLDoc(issue) {
   var xmlhttp = new XMLHttpRequest();
   var doc= this.document;
   xmlhttp.onreadystatechange = function() {
     if (doc.readyState == 'complete' && xmlhttp.status ==200) {
       var parser = new DOMParser();
       var xmlDoc = parser.parseFromString(xmlhttp.responseText, "application/xml");
-      LoadGigs(xmlDoc,i);
+      LoadGigs(xmlDoc,issue);
     }
   };
   xmlhttp.open("GET", "../assets/xml/gigs.xml", true);
   xmlhttp.send();
 }
 
-function LoadGigs(xml, i) {
+function LoadGigs(xml, issue) {
 var x = xml.getElementsByTagName("gigs")[0];
 if(x!==undefined){
 var children = x.childNodes;
-var issue_num = children;
-console.log(issue_num);
-for (j = 0; j <children.length; j++) {
-  table += "<tr><td>" +
-  children[j].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue +
-  "</td><td>" +
-  children[j].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
-  "</td></tr>";
+var table = '<table>\n<tr>\n';
+for(var item=0;item<GigFields.length;item++)
+{
+  table+='<th>'+ GigFields[item]+ '</th>\n';
+}
+table+='</tr>';
+for(var item=1;item<children.length;item+=2)
+{
+var issue_num = parseInt(children[item].getElementsByTagName('issue_num')[0].textContent);
+if(issue_num===issue){
+  table += "<tr>\n";
+  for(var item2=0;item2<GigFields.length;item2++)
+{
+var cellContents = children[item].getElementsByTagName(GigFields[item2].toLowerCase())[0].textContent;
+table+='<td>'+ cellContents +  '</td>';
+}
+table+='</tr>\n';
+}
+table+='</table>';
 }
 }
-document.getElementById("demo").innerHTML = table;
+document.getElementById("gigs").innerHTML = table;
 }
