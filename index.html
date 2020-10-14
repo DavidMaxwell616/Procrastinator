@@ -3,13 +3,18 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <META name="description" content="The Procrastinator is the official Mexican Mud Newsletter that caters to the slackers and lounge set of The New York City Area">
         <META name="keywords" content="Funk, Mexican Mud, Valium Effort, Slacker, Lounge, Drinking, Drugs, New York City, Guitar Tab, David Maxwell">
         <title>Procrastinator</title>
-             <!-- Our Custom CSS -->
         <link rel="stylesheet" href="css/style.css">
-      </head>
+        <style>
+          body {
+                  font-family: 'Poppins', sans-serif;
+                  background: #fafafa;
+                    background-image: url(../assets/images/punchy.gif);
+              }
+        </style>
+    </head>
     <body>
         <div class="wrapper">
             <!-- Sidebar Holder -->
@@ -20,25 +25,22 @@
 
                 <ul class="list-unstyled components">
                     <li class="active">
-                      <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Issues</a>
-                      <ul class="collapse list-unstyled" id="homeSubmenu">
-                        <li class="dropdown-submenu">
-                          <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">Issue 1</a>
-                          <ul class="collapse list-unstyled" id="pageSubmenu">
-                          <div id="menu"></div>
+                    <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Issues</a>
+                    <ul class="collapse list-unstyled" id="homeSubmenu">
+                      <div id="menu"></div>
                     </ul>
-                    <li><A HREF=mudband.htm>Mud Page</A></li>
-                    <li><A HREF=page6.htm>Valium Effort Page</A></li>
-                    <li><A HREF=page5.htm>Slackertainment Page</A></li>
-                    <li><A HREF=page4.htm>The Drunk Page</A></li>
-                    <li><A HREF=page8.htm>Max's Guitar Tab</A></li>
-                    <li><A HREF=twilite2.htm>Dr. Twilite's Neighborhood</A></li>
-                    <li><A HREF=page7.htm>Hot Links</A></li>
-                    <li><A HREF=page0.htm>Anarchist's Cookbook</A></li>
-                    </ul>
+                    <li><A HREF=mudband.htm/>Mud Page</A></li>
+<li><A HREF=page6.htm>Valium Effort Page</A></li>
+<li><A HREF=page5.htm>Slackertainment Page</A></li>
+<li><A HREF=page4.htm>The Drunk Page</A></li>
+<li><A HREF=page8.htm>Max's Guitar Tab</A></li>
+<li><A HREF=twilite2.htm">Dr. Twilite's Neighborhood</A></li>
+<li><A HREF=page7.htm>Hot Links</A></li>
+<li><A HREF=#>Anarchist's Cookbook</A></li>
+</ul>
 
-                    </li>
-                    </ul>
+</li>
+</ul>
     </nav>
 
 <!-- Page Content Holder -->
@@ -62,51 +64,46 @@ Publisher is not responsible for depreciation in quality of material and
 fully reserves the right to blame aforementioned depreciation on Acts of 
 God, political embargo, riot, insurrection, fire, lack of enthusiasm, 
 uninvited hallucinations, Rodan, indifference, prolonged sobriety, field 
-mice, head lice and fried rice. 
-<HR><P>PROCRASTINATORS' CREDO: "The longer the act is delayed, the greater 
-the pleasure derived." -Lao Tsu<P><HR>
+mice, head lice and fried rice.</P> 
+<HR>
+<P>PROCRASTINATORS' CREDO: "The longer the act is delayed, the greater 
+the pleasure derived." -Lao Tsu</P>
+    </div>
+</div>
+        <!-- jQuery CDN -->
+         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+         <!-- Bootstrap Js CDN -->
+         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-
-            </div>
-        </div>
-
-
-<script>
-function makeMenu() {
-  const zeroPad = (num, places) => String(num).padStart(places, '0')
-  var txt='';
-    for (let index = 1; index < 16; index++) {
-    var issue = zeroPad(index, 2);
-    txt +='<li class="dropdown-submenu">\n'
-           +'<a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">Issue '+ index+'</a>\n'
-           +'<ul class="collapse list-unstyled" id="pageSubmenu"\n'
-           for (let index2 = 1; index2 < 5; index2++) {
-            var page = zeroPad(index2, 2);
-             txt+='<li><a href="issues/issue'+issue+'/page'+issue+page+'.html" target="_blank">Page '+page+'</a></li>\n'
-           }
-            txt+='</ul>\n</li>\n'
+         <script type="text/javascript">
+             $(document).ready(function () {
+                 $('#sidebarCollapse').on('click', function () {
+                     $('#sidebar').toggleClass('active');
+                 });
+             });
+         </script>
+    <script>
+      function makeMenu() {
+        const zeroPad = (num, places) => String(num).padStart(places, '0')
+        var txt='';
+          for (let index = 1; index < 16; index++) {
+          var issue = zeroPad(index, 2);
+          txt +='<li class="dropdown-submenu">\n'
+                 +'<a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">Issue '+ index+'</a>\n'
+                 +'<ul class="collapse list-unstyled" id="pageSubmenu"\n'
+                 for (let index2 = 1; index2 < 5; index2++) {
+                  var page = zeroPad(index2, 2);
+                   txt+='<li><a href="issues/issue'+issue+'/page'+issue+page+'.html" target="_blank">Page '+index2+'</a></li>\n'
+                 }
+                  txt+='</ul>\n</li>\n'
+            }
+          // Add it to the page
+          document.getElementById("menu").innerHTML = txt;
+      
+       
       }
-    // Add it to the page
-    document.getElementById("menu").innerHTML = txt;
-
- 
-}
-
-// Usage
-makeMenu();
-var markup = document.documentElement.innerHTML;
-console.log(markup);
-</script>
-  <!-- jQuery CDN -->
-    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
-    <!-- Bootstrap Js CDN -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $('#sidebarCollapse').on('click', function () {
-                $('#sidebar').toggleClass('active');
-            });
-        });
-    </script>
-    </body>
+      makeMenu();
+      var markup = document.documentElement.innerHTML;
+      </script>
+  </body>
 </html>
