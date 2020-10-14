@@ -1,3 +1,7 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+<article>
 A periodical for the periodically unmotivated. 
 
 SPECIAL NEW SINGLES LIVING SECTION! * Bizarre personal ads! * Horrifying truths revealed! * Meat Market reports! * How-to tips on: -Changing your personality to suit anyone's needs! -Looking good even when you're not! -Attaining true love right in your own home! 
@@ -12,7 +16,8 @@ ATTENTION GEORGE DICKEL FANS!: The Mud and Valium Effort vWU (replaying every Th
 325 East 21st. St. g 12 NEW YORE, NY 10010 
 A Mexican Mud endorsed event and/or product 
 This month's super single spotlight on: TRACT MAST!! Her tips on how to drink free all night, how to mingle with gusto, keep your balance and still get home safely. Follow her through the perilous labyrinth of New York's night scene and marvel at her ruthless seamming methods. (p.41 
----------------------------------------------------------------------
+</article>
+<article>
 IN THE MUD NEWS 
 CHINESE FOOD POLL FEARED "FIXED" BY EL DELLA RUCHO!! 
 The steps n front of the Callahanee coutthoule were densely packed with the curious and the furious this morning, as The Mexican Mud Band held a press contemnce to apologise for Wring modiste& SOON the nation into divulging theit foram< Chinese foodstuffs. Howls of disapproval and outrage greeted them as they took the pladom and began cockily diesembling the equipment- Scott Lein blearily denied ch hat the band was attempting to sell the results and admitted with teret that they beheved El Della %mho was anempeing to 'fix' the poll, somehow, foe whatever reason of his own. The crowd disbanded datedly after the Mud launched an unprovesatory a capella sap that 
@@ -40,7 +45,8 @@ NEXT MONTH.TRIMI, RHYTHMS AND MORE DEBAUCHERY!!!!!!
 
 Early plIcao From the depths of the Linen Corer Procrastinator • July, 1993 
 2 
------------------------------------------------------------------------------------
+</article>
+<article>
 ONE FOR THE LADIES!! 
 Insider's Exposé 
 You don't have to be a guy to be a Procrastinator! 
@@ -76,4 +82,5 @@ MUD MERCHANDISE STICKERS-FREE!! DON'T HOLD BACK TAPE — ONLY $5.0011 (NEW RELEA
 
 4 
 Procrastinator, July, 1993 
-
+</article>
+</articles>

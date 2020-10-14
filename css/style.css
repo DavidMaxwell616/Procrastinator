@@ -1,9 +1,47 @@
-/*
-    DEMO STYLE
-*/
+
 @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 
+@import "goudystyle.css";
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"; 
+@import "//db.onlinewebfonts.com/c/bb0fe08cf997fafb2814693cdd039c68?family=Goudy+Heavyface";
 
+@import "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css";
+
+hr.pageBreak {
+  border: 5px solid black;
+}
+
+.vBottom {
+    position: absolute;
+    top: 100%;
+    transform: translateY(-100%); 
+}
+.hLeft-25pct{
+  position: absolute;
+    left: 0%;
+    transform: translateX(-25%); 
+}
+table, th, td {
+  border: 1px solid black;
+}
+
+.title {
+  font-family: 'Goudy';
+  font-size: '132';
+}
+
+h2 {
+  font-family: 'Goudy';
+}
+h3 {
+  font-weight: bold;
+  font-size: 16px;
+  font-family: 'Goudy';
+}
+h1 {
+    font-size: 48px;
+  font-family: 'Goudy Heavyface';
+}
 body {
     font-family: 'Poppins', sans-serif;
     background: #fafafa;
@@ -73,6 +111,7 @@ a, a:hover, a:focus {
     padding: 20px 0;
     border-bottom: 1px solid #47748b;
 }
+
 
 #sidebar ul p {
     color: #fff;
