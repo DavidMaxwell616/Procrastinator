@@ -8,9 +8,12 @@
 hr.pageBreak {
   border: 5px solid black;
 }
-
+hr.double {
+  border: 2px solid black;
+}
 table, th, td {
   border: 1px solid black;
+  padding: 2px;
 }
 
 .title {
@@ -31,12 +34,14 @@ h1 {
   font-family: 'Goudy Heavyface';
 }
 
-img {
-  align-content: center;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
-
 p {
-    font-family: 'Helvetica', sans-serif;
+   font-family: 'Goudy';
     font-weight: bold;
     color: #000;
 }
@@ -45,6 +50,17 @@ a, a:hover, a:focus {
     color: inherit;
     text-decoration: none;
     transition: all 0.3s;
+}
+
+.vBottom {
+  position: absolute;
+  top: 100%;
+  transform: translateY(-100%); 
+}
+.hLeft-25pct{
+position: absolute;
+  left: 0%;
+  transform: translateX(-25%); 
 }
 
 .navbar {
