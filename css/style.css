@@ -7,9 +7,11 @@
 
 hr.pageBreak {
   border: 5px solid black;
+  margin: 0em;
 }
 hr.double {
   border: 2px solid black;
+  margin: 0em;
 }
 table, th, td {
   border: 1px solid black;
@@ -38,17 +40,24 @@ img.imageborder {
 h1 {
   font-size: 48px;
 font-family: 'Goudy Heavyface';
+margin: 0;
+  padding: 0;
 }
 
 h2 {
   font-size: 30px;
   font-family: 'Goudy Heavyface';
+margin: 0;
+  padding: 0;
+  
 }
 
 h3 {
   font-weight: bold;
   font-size: 16px;
   font-family: 'Goudy';
+  margin: 0;
+  padding: 0;
 }
 
 .center {
@@ -68,6 +77,7 @@ p {
    font-family: 'Goudy';
    display: flex;
    justify-content: center;
+   
   }
 
 a, a:hover, a:focus {
