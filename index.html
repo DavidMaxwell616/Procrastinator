@@ -1,35 +1,35 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <META name="description" content="The Procrastinator is the official Mexican Mud Newsletter that caters to the slackers and lounge set of The New York City Area">
-        <META name="keywords" content="Funk, Mexican Mud, Valium Effort, Slacker, Lounge, Drinking, Drugs, New York City, Guitar Tab, David Maxwell">
-        <title>Procrastinator</title>
-        <link rel="stylesheet" href="css/style.css">
-        <style>
-          body {
-                  font-family: 'Poppins', sans-serif;
-                  background: #fafafa;
-                    background-image: url(../assets/images/punchy.gif);
-              }
-        </style>
-    </head>
-    <body>
-        <div class="wrapper">
-            <!-- Sidebar Holder -->
-            <nav id="sidebar">
-                <div class="sidebar-header">
-                    <h3>Main Menu</h3>
-                </div>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <META name="description" content="The Procrastinator is the official Mexican Mud Newsletter that caters to the slackers and lounge set of The New York City Area">
+    <META name="keywords" content="Funk, Mexican Mud, Valium Effort, Slacker, Lounge, Drinking, Drugs, New York City, Guitar Tab, David Maxwell">
+    <title>Procrastinator</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+    body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa;
+    background-image: url(../assets/images/punchy.gif);
+    }
+    </style>
+  </head>
+<body>
+<div class="wrapper">
+<!-- Sidebar Holder -->
+<nav id="sidebar">
+<div class="sidebar-header">
+<h3>Main Menu</h3>
+</div>
 
-                <ul class="list-unstyled components">
-                    <li class="active">
-                    <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Issues</a>
-                    <ul class="collapse list-unstyled" id="homeSubmenu">
-                      <div id="menu"></div>
-                    </ul>
-                    <li><A HREF=mudband.htm/>Mud Page</A></li>
+<ul class="list-unstyled components">
+<li class="active">
+<a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Issues</a>
+<ul class="collapse list-unstyled" id="homeSubmenu">
+<div id="menu"></div>
+</ul>
+<li><A HREF=mudband.htm/>Mud Page</A></li>
 <li><A HREF=page6.htm>Valium Effort Page</A></li>
 <li><A HREF=page5.htm>Slackertainment Page</A></li>
 <li><A HREF=page4.htm>The Drunk Page</A></li>
@@ -60,21 +60,22 @@
               </div class="row">
               <div class="row">
 
-                  <H3>If you have any correspondence (articles, flames, raves, junk mail) 
-please send it to:</H3><A HREF="mailto:maxxdaddy@aol.com" ><IMG SRC="./assets/images/maxx.jpg"></A> 
-OR <A HREF="mailto:ERICHK9@aol.com" ><IMG SRC="./assets/images/drtwilite.gif"></A> 
-</DIV>
+                  <H3 class="justify">If you have any correspondence (articles, flames, raves, junk mail) 
+please send it to:</H3><br>
+<div class="center"><A HREF="mailto:maxxdaddy@aol.com" ><IMG SRC="./assets/images/maxx.jpg"></A> 
+<b>OR</b> <A HREF="mailto:ERICHK9@aol.com" ><IMG SRC="./assets/images/drtwilite.gif"></A> 
+</div></DIV>
   <div class="row">
-    <HR class="double">
+    <HR class="double-m">
 
-<H3>Procrastinator Disclaimer:
+<H3 class="justify">Procrastinator Disclaimer:
 Publisher is not responsible for depreciation in quality of material and 
 fully reserves the right to blame aforementioned depreciation on Acts of 
 God, political embargo, riot, insurrection, fire, lack of enthusiasm, 
 uninvited hallucinations, Rodan, indifference, prolonged sobriety, field 
 mice, head lice and fried rice.</H3> 
-<HR class="double">
-<h3>PROCRASTINATORS' CREDO: "The longer the act is delayed, the greater 
+<HR class="double-m">
+<h3 class="justify">PROCRASTINATORS' CREDO: "The longer the act is delayed, the greater 
 the pleasure derived." -Lao Tsu</h3>
   </div>
 </div>
@@ -98,14 +99,15 @@ the pleasure derived." -Lao Tsu</h3>
           for (let index = 1; index < 16; index++) {
           var issue = zeroPad(index, 2);
           txt +='<li class="dropdown-submenu">\n'
-                 +'<a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">Issue '+ index+'</a>\n'
-                 +'<ul class="collapse list-unstyled" id="pageSubmenu"\n'
+                 +'<a href="#pageSubmenu'+index+'" data-toggle="collapse" aria-expanded="false">Issue '+ index+'</a>\n'
+                 +'<ul class="collapse list-unstyled" id="pageSubmenu'+index+'"\n'
                  for (let index2 = 1; index2 < 5; index2++) {
                   var page = zeroPad(index2, 2);
-                   txt+='<li><a href="issues/issue'+issue+'/page'+issue+page+'.html" target="_blank">Page '+index2+'</a></li>\n'
+                   txt+='<li><a href="issues/issue'+issue+'/page'+issue+page+'.html" target="_blank">&nbsp;&nbsp;Page '+index2+'</a></li>\n'
                  }
                   txt+='</ul>\n</li>\n'
             }
+            console.log(txt);
           // Add it to the page
           document.getElementById("menu").innerHTML = txt;
       

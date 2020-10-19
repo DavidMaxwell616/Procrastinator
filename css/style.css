@@ -13,10 +13,24 @@ hr.double {
   border: 2px solid black;
   margin: 0em;
 }
+hr.double-m {
+  border: 2px solid black;
+  margin: 1em;
+}
+
+h1.shadow {
+  text-shadow: 2px 2px #ff0000;
+}
+
 table, th, td {
+  width: 100%;
   border: 1px solid black;
   padding: 2px;
+  margin:5px;
+  table-layout: fixed;
+  font-size:90%;
 }
+
 p.solid {
   border-style: solid;
   padding:5px;
@@ -32,9 +46,9 @@ img.imageborder {
   border-style: double;
 }
 
-.title {
-  font-family: 'Goudy';
-  font-size: '132';
+h1.title {
+  font-size: 64px;
+font-family: 'Goudy Heavyface';
 }
 
 h1 {
@@ -64,15 +78,8 @@ h3 {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
-.vl {
-  border-left: 4px solid black;
-  height: 305px;
-  position: absolute;
-  left: 58%;
-  top: 70px;
-}
+
 p {
    font-family: 'Goudy';
    display: flex;

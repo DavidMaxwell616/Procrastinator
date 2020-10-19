@@ -1,3 +1,12 @@
+const GigFields=[
+  'Day',
+  'Date',
+  'Time',
+  'Venue',
+  'Location',
+  'Phone'
+];
+
 function loadXMLDoc(issue,file) {
   var xmlhttp = new XMLHttpRequest();
   var doc= this.document;
@@ -34,8 +43,8 @@ if(x!==undefined){
   }
   table+='</tr>\n';
   }
-  table+='</table>';
-  }
+    }
+    table+='</table>';
 }
 
 document.getElementById("gigs").innerHTML = table;
