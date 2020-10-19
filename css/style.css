@@ -19,9 +19,12 @@ hr.double-m {
 }
 
 h1.shadow {
-  text-shadow: 2px 2px #ff0000;
+  text-shadow: 2px 2px #000;
 }
-
+h1.outline {
+  -webkit-text-stroke: 2px white; /* width and color */
+  text-shadow: 2px 2px #000;
+}
 table, th, td {
   width: 100%;
   border: 1px solid black;
