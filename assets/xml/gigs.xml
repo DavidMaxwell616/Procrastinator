@@ -126,4 +126,131 @@
 <location>Greenfield, MA</location>
 <phone>(413) 773-9025</phone> 
 </gig>
+<gig>
+<issue_num>2</issue_num>
+<day>FRI</day>
+<date>JULY 30</date>
+<time>10pm</time>
+<venue>New Music Cafe</venue>
+<location>New York, NY</location>
+<phone>(212) 941-0090</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>SUN</day>
+<date>AUG 1</date>
+<time>3pm</time>
+<venue>Polish Picnic</venue>
+<location>Greenield, MA</location>
+<phone>(413) 773-9025</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>THU</day>
+<date>AUG 12</date>
+<time>9pm</time>
+<venue>Flannery's - w/Valium Effort</venue>
+<location>New York, NY</location>
+<phone>(212) 229-2122</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>FRI</day>
+<date>AUG 13</date>
+<time>11pm</time>
+<venue>Boo Boo's</venue>
+<location>Hoboken, NJ</location>
+<phone>(201) 659-1789</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>SAT</day>
+<date>AUG 14</date>
+<time>10pm</time>
+<venue>Bogie's</venue>
+<location>Albany, NY</location>
+<phone>(518) 482-4368</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>THU</day>
+<date>AUG 19</date>
+<time>9pm</time>
+<venue>Flannery's - with Valium Effort</venue>
+<location>New York, NY</location>
+<phone>(212) 229-2122</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>SAT</day>
+<date>AUG 21</date>
+<time>11pm</time>
+<venue>New Music Cafe</venue>
+<location>New York, NY</location>
+<phone>(212) 941-0903</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>THU</day>
+<date>AUG 26</date>
+<time>9pm</time>
+<venue>Flannery's - with Valium Effort</venue>
+<location>New York, NY</location>
+<phone>(212) 229-2122</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>WED</day>
+<date>AUG 25</date>
+<time>10pm</time>
+<venue>Stone Pony</venue>
+<location>Asbury Park, NJ</location>
+<phone>(918) 530-5696</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>FRI</day>
+<date>AUG 27</date>
+<time>10pm</time>
+<venue>Maisons</venue>
+<location>Greenfield, MA</location>
+<phone>(212) 260-8030</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>THU</day>
+<date>SEPT 2</date>
+<time>9pm</time>
+<venue>Flannery's</venue>
+<location>New York, NY</location>
+<phone>(212) 229-2122</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>FRI</day>
+<date>SEPT 3</date>
+<time>10pm</time>
+<venue>East LA</venue>
+<location>Syracuse, NY</location>
+<phone>(315) 471-1148</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>SAT</day>
+<date>SEPT 4</date>
+<time>10pm</time>
+<venue>Old City Hall</venue>
+<location>Oswego, NY</location>
+<phone>(315) 343-2012</phone>
+</gig>
+<gig>
+<issue_num>2</issue_num>
+<day>SUN</day>
+<date>SEPT 5</date>
+<time>9pm</time>
+<venue>Filthy McNasty's</venue>
+<location>Seneca Falls, NY</location>
+<phone>(315) 568-4323</phone>
+</gig>
+
 </gigs>
