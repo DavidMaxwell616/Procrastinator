@@ -17,7 +17,11 @@ hr.double-m {
   border: 2px solid black;
   margin: 1em;
 }
-
+hr.single {
+  border: 1px solid black;
+  margin: 0em;
+  
+}
 h1.shadow {
   text-shadow: 2px 2px #000;
 }
