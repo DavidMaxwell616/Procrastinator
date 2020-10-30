@@ -73,7 +73,10 @@ margin: 0;
   padding: 0;
   
 }
-
+h2.dbl {
+  border-style: double;
+  padding:10px;
+}
 h3 {
   font-weight: bold;
   font-size: 22px;
@@ -97,16 +100,15 @@ p {
     padding: 0;
    }
 
-  p.centered {
-    justify-content: center;
-  }
-  
+
    a, a:hover, a:focus {
     color: inherit;
     text-decoration: none;
     transition: all 0.3s;
 }
-
+.centered {
+  justify-content: center;
+}
 .justify {
   text-align: justify;
   text-justify: inter-word;
