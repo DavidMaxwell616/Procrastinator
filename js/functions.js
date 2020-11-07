@@ -33,6 +33,7 @@ if(x!==undefined){
   table+='</tr>';
   for(var item=1;item<children.length;item+=2)
   {
+    console.log(children[item]);
   var issue_num = parseInt(children[item].getElementsByTagName('issue_num')[0].textContent);
   if(issue_num===issue){
     table += "<tr>\n";

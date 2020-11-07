@@ -252,5 +252,113 @@
 <location>Seneca Falls, NY</location>
 <phone>(315) 568-4323</phone>
 </gig>
+<gig>
+<issue_num>3</issue_num>
+<day>THUR</day>
+<date>SEPT 9</date>
+<time>9pm</time>
+<venue>Flannery's - with Valium Effort</venue>
+<location>New York, NY</location>
+<phone>(212) 229-2122</phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>FRI</day>
+<date>SEPT 10</date>
+<time>10pm</time>
+<venue>West End Cafe</venue>
+<location>New York, NY </location>
+<phone>(212) 749-9434</phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>SAT</day>
+<date>SEPT 11</date>
+<time>10:30pm</time>
+<venue>Boo Boo's</venue>
+<location>Hoboken, NJ</location>
+<phone>(201) 659.1789 </phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>THU</day>
+<date>SEPT 16</date>
+<time>9pm</time>
+<venue>Flannery's - with Valium.Effort &#38; Harsh Reality </venue>
+<location> New York, NY</location>
+<phone>(212) 229-2122</phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>SAT</day>
+<date>SEPT 17</date>
+<time> I I pm</time>
+<venue>New Music Cafe - with Milo Z</venue>
+<location>New York. NY</location>
+<phone>(212) 941.0900</phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>THU</day>
+<date>SEPT 23</date>
+<time>9pm</time>
+<venue>Flannery's - with Valium Effort &#38; Moe </venue>
+<location>New York, NY</location>
+<phone>(2l2) 229-2122</phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>SAT</day>
+<date>SEPT 24</date>
+<time>11pm</time>
+<venue>New Music Cafe -with Milo Z </venue>
+<location>New York, NY</location>
+<phone> (212) 941-0900</phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>THU</day>
+<date>SEPT 30</date>
+<time>9pm</time>
+<venue>Flannery's - with Valium Effort</venue>
+<location>New York. NY</location>
+<phone> (212)229.2122</phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>FRI </day>
+<date>OCT 8</date>
+<time>10pm </time>
+<venue>Court Tavern - with The Other Half </venue>
+<location>New Brunswick, NJ</location>
+<phone>(908) 545.7265</phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>  FRI</day>
+<date>OCT 15</date>
+<time>10pm </time>
+<venue>East LA</venue>
+<location>Syracuse, NY</location>
+<phone> (315) 471-1148</phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>SAT</day>
+<date>OCT 16</date>
+<time>10pm</time>
+<venue>Old City Hall</venue>
+<location>Oswego, NY</location>
+<phone>(315) 343.2012 </phone>
+</gig>
+<gig>
+<issue_num>3</issue_num>
+<day>FRI</day>
+<date>OCT 22</date>
+<time>10pm</time>
+<venue>The Hotel Rhinecliff </venue>
+<location>Rhineeliff, NY</location>
+<phone>(914) 876-8688</phone>
+</gig>
 
 </gigs>
