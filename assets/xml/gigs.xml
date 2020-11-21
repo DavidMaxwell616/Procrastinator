@@ -360,5 +360,76 @@
 <location>Rhineeliff, NY</location>
 <phone>(914) 876-8688</phone>
 </gig>
-
+<gig>
+<issue_num>4</issue_num>
+<day>Fri  </day>
+<date>Feb 17</date>
+<time>11pm</time>
+<venue>New Music Cafe</venue>
+<location>New York, NY</location>
+<phone> (212) 941-0900</phone>
+</gig>
+<gig>
+<issue_num>4</issue_num>
+<day>Wed  </day>
+<date>Mar 1</date>
+<time>8pm</time>
+<venue>Lehigh University  </venue>
+<location>Bethlehem, PA</location>
+<phone>(610) 758-4158</phone>
+</gig>
+<gig>
+<issue_num>4</issue_num>
+<day>Thur</day>
+<date>Mar 2</date>
+<time> lOpm</time>
+<venue> EAST LA. </venue>
+<location>Syracuse, NY</location>
+<phone>(315) 471-1148 </phone>
+</gig>
+<gig>
+<issue_num>4</issue_num>
+<day>Fri </day>
+<date>Mar 3 </date>
+<time>11am </time>
+<venue>Onandaga College</venue>
+<location>Syracuse NY </location>
+<phone>(315) 469-7741</phone>
+</gig>
+<gig>
+<issue_num>4</issue_num>
+<day> Fri </day>
+<date>Mar 3 </date>
+<time>10pm</time>
+<venue>Old City Hall</venue>
+<location>Oswego NY </location>
+<phone>(315) 343-9453</phone>
+</gig>
+<gig>
+<issue_num>4</issue_num>
+<day>Sat </day>
+<date>Mar 4 </date>
+<time>10pm</time>
+<venue>University of Rochester - OX</venue>
+<location>Rochester, NY </location>
+<phone>(716) 274-4901</phone>
+</gig>
+<gig>
+<issue_num>4</issue_num>
+<day>Fri </day>
+<date>Mar 10 </date>
+<time>11pm </time>
+<venue>New Music Cafe</venue>
+<location>New York, NY</location>
+<phone> (212) 941-0900</phone>
+</gig>
+<gig>
+<issue_num>4</issue_num>
+<day>Sat </day>
+<date>Mar 11</date>
+<time>8 pm </time>
+<venue>Cayuga College</venue>
+<location>Auburn NY </location>
+<phone>(315) 252-9276</phone>
+</gig>
 </gigs>
