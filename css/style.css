@@ -84,6 +84,10 @@ margin: 0;
   padding: 0;
   
 }
+h1.dbl {
+  border-style: double;
+  padding:10px;
+}
 h2.dbl {
   border-style: double;
   padding:10px;
