@@ -37,7 +37,75 @@ h1.invert {
   color: white;
   background-color: black;
 }
-
+h1.sans {
+  font-family: 'Helvetica';
+  font-size: 72px;
+}
+p.sans {
+  font-family: 'Helvetica';
+  font-size:18px;
+}
+h2.sans {
+  font-family: 'Helvetica';
+  font-size: 48px;
+}
+h3.sans {
+  font-family: 'Helvetica';
+  font-size: 24px;
+  text-align: justify;
+}
+h3.sanscenter {
+  font-family: 'Helvetica';
+  font-size: 24px;
+}
+h1.sanstitle {
+  font-family: 'Helvetica';
+  font-size: 102px;
+  border: 5px solid black;
+  margin: 0em;
+}
+h2.sanstitle {
+  font-family: 'Helvetica';
+  font-size: 72px;
+  border: 5px solid black;
+  margin: 0em;
+}
+h3.sanstitle {
+  font-family: 'Helvetica';
+  font-size: 48px;
+  border: 5px solid black;
+  margin: 0em;
+}
+h2.invertsans {
+  color: white;
+  background-color: black;
+  font-family: 'Helvetica';
+  font-size: 42px;
+}
+h3.invertsans {
+  color: white;
+  background-color: black;
+  font-family: 'Helvetica';
+  font-size: 24px;
+}
+p.sanstitle {
+  font-family: 'Helvetica';
+  font-size: 24px;
+    text-align: justify;
+    
+}
+h1.invertsans {
+  color: white;
+  background-color: black;
+  font-family: 'Helvetica';
+  font-size: 62px;
+}
+h1.invertsanstitle {
+  color: white;
+  background-color: black;
+  font-family: 'Helvetica';
+  font-size: 102px;
+}
 table, th, td {
   width: 100%;
   border: 1px solid black;
