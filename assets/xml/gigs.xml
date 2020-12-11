@@ -42,7 +42,7 @@
 <date>JUNE 15</date>
 <time>10pm</time>
 <venue>Lonestar Roadhouse</venue>
-<location>New York, </location>
+<location>New York,</location>
 <phone>(212) 245-2950</phone>
 </gig>
 <gig>
@@ -61,7 +61,7 @@
 <time>10pm</time>
 <venue>The Hotel Rhinecliff</venue>
 <location>Rhinecliff, NY</location>
-<phone>(914) 876-8688</phone> 
+<phone>(914) 876-8688</phone>
 </gig>
 <gig>
 <issue_num>1</issue_num>
@@ -70,7 +70,7 @@
 <time>10pm</time>
 <venue>Flannery's w/ Valium Effort</venue>
 <location>New York, NY</location>
-<phone>(212) 220-2122</phone> 
+<phone>(212) 220-2122</phone>
 </gig>
 <gig>
 <issue_num>1</issue_num>
@@ -79,7 +79,7 @@
 <time>3pm</time>
 <venue>MTV's Alternative Nation Tour w/Spin Doctors*</venue>
 <location>Weedsport Raceway, NY</location>
-<phone>(315) 655-2527</phone> 
+<phone>(315) 655-2527</phone>
 </gig>
 <gig>
 <issue_num>1</issue_num>
@@ -88,7 +88,7 @@
 <time>10pm</time>
 <venue>The Court Tavern</venue>
 <location>New Brunswick, NJ</location>
-<phone>(908) 545-7265</phone> 
+<phone>(908) 545-7265</phone>
 </gig>
 <gig>
 <issue_num>1</issue_num>
@@ -97,7 +97,7 @@
 <time>10pm</time>
 <venue>Scandals</venue>
 <location>Ocean City, MD</location>
-<phone>(410) 723-0500</phone> 
+<phone>(410) 723-0500</phone>
 </gig>
 <gig>
 <issue_num>1</issue_num>
@@ -106,7 +106,7 @@
 <time>3pm</time>
 <venue>w/The Spin Doctors</venue>
 <location>Middletown, NY</location>
-<phone>(212) 260-8030</phone> 
+<phone>(212) 260-8030</phone>
 </gig>
 <gig>
 <issue_num>1</issue_num>
@@ -115,7 +115,7 @@
 <time>10pm</time>
 <venue>Joyous Lake, NY</venue>
 <location>Woodstock, NY</location>
-<phone>(914) 679-4916</phone> 
+<phone>(914) 679-4916</phone>
 </gig>
 <gig>
 <issue_num>1</issue_num>
@@ -124,7 +124,7 @@
 <time>3pm</time>
 <venue>Polish Picnic</venue>
 <location>Greenfield, MA</location>
-<phone>(413) 773-9025</phone> 
+<phone>(413) 773-9025</phone>
 </gig>
 <gig>
 <issue_num>2</issue_num>
@@ -267,7 +267,7 @@
 <date>SEPT 10</date>
 <time>10pm</time>
 <venue>West End Cafe</venue>
-<location>New York, NY </location>
+<location>New York, NY</location>
 <phone>(212) 749-9434</phone>
 </gig>
 <gig>
@@ -277,22 +277,22 @@
 <time>10:30pm</time>
 <venue>Boo Boo's</venue>
 <location>Hoboken, NJ</location>
-<phone>(201) 659.1789 </phone>
+<phone>(201) 659.1789</phone>
 </gig>
 <gig>
 <issue_num>3</issue_num>
 <day>THU</day>
 <date>SEPT 16</date>
 <time>9pm</time>
-<venue>Flannery's - with Valium.Effort &#38; Harsh Reality </venue>
-<location> New York, NY</location>
+<venue>Flannery's - with Valium.Effort &#38; Harsh Reality</venue>
+<location>New York, NY</location>
 <phone>(212) 229-2122</phone>
 </gig>
 <gig>
 <issue_num>3</issue_num>
 <day>SAT</day>
 <date>SEPT 17</date>
-<time> I I pm</time>
+<time>I I pm</time>
 <venue>New Music Cafe - with Milo Z</venue>
 <location>New York. NY</location>
 <phone>(212) 941.0900</phone>
@@ -302,7 +302,7 @@
 <day>THU</day>
 <date>SEPT 23</date>
 <time>9pm</time>
-<venue>Flannery's - with Valium Effort &#38; Moe </venue>
+<venue>Flannery's - with Valium Effort &#38; Moe</venue>
 <location>New York, NY</location>
 <phone>(2l2) 229-2122</phone>
 </gig>
@@ -311,9 +311,9 @@
 <day>SAT</day>
 <date>SEPT 24</date>
 <time>11pm</time>
-<venue>New Music Cafe -with Milo Z </venue>
+<venue>New Music Cafe -with Milo Z</venue>
 <location>New York, NY</location>
-<phone> (212) 941-0900</phone>
+<phone>(212) 941-0900</phone>
 </gig>
 <gig>
 <issue_num>3</issue_num>
@@ -322,25 +322,25 @@
 <time>9pm</time>
 <venue>Flannery's - with Valium Effort</venue>
 <location>New York. NY</location>
-<phone> (212)229.2122</phone>
+<phone>(212)229.2122</phone>
 </gig>
 <gig>
 <issue_num>3</issue_num>
-<day>FRI </day>
+<day>FRI</day>
 <date>OCT 8</date>
-<time>10pm </time>
-<venue>Court Tavern - with The Other Half </venue>
+<time>10pm</time>
+<venue>Court Tavern - with The Other Half</venue>
 <location>New Brunswick, NJ</location>
 <phone>(908) 545.7265</phone>
 </gig>
 <gig>
 <issue_num>3</issue_num>
-<day>  FRI</day>
+<day>FRI</day>
 <date>OCT 15</date>
-<time>10pm </time>
+<time>10pm</time>
 <venue>East LA</venue>
 <location>Syracuse, NY</location>
-<phone> (315) 471-1148</phone>
+<phone>(315) 471-1148</phone>
 </gig>
 <gig>
 <issue_num>3</issue_num>
@@ -349,32 +349,32 @@
 <time>10pm</time>
 <venue>Old City Hall</venue>
 <location>Oswego, NY</location>
-<phone>(315) 343.2012 </phone>
+<phone>(315) 343.2012</phone>
 </gig>
 <gig>
 <issue_num>3</issue_num>
 <day>FRI</day>
 <date>OCT 22</date>
 <time>10pm</time>
-<venue>The Hotel Rhinecliff </venue>
+<venue>The Hotel Rhinecliff</venue>
 <location>Rhineeliff, NY</location>
 <phone>(914) 876-8688</phone>
 </gig>
 <gig>
 <issue_num>4</issue_num>
-<day>Fri  </day>
+<day>Fri </day>
 <date>Feb 17</date>
 <time>11pm</time>
 <venue>New Music Cafe</venue>
 <location>New York, NY</location>
-<phone> (212) 941-0900</phone>
+<phone>(212) 941-0900</phone>
 </gig>
 <gig>
 <issue_num>4</issue_num>
-<day>Wed  </day>
+<day>Wed </day>
 <date>Mar 1</date>
 <time>8pm</time>
-<venue>Lehigh University  </venue>
+<venue>Lehigh University </venue>
 <location>Bethlehem, PA</location>
 <phone>(610) 758-4158</phone>
 </gig>
@@ -382,415 +382,415 @@
 <issue_num>4</issue_num>
 <day>Thur</day>
 <date>Mar 2</date>
-<time> lOpm</time>
-<venue> EAST LA. </venue>
+<time>lOpm</time>
+<venue>EAST LA.</venue>
 <location>Syracuse, NY</location>
-<phone>(315) 471-1148 </phone>
+<phone>(315) 471-1148</phone>
 </gig>
 <gig>
 <issue_num>4</issue_num>
-<day>Fri </day>
-<date>Mar 3 </date>
-<time>11am </time>
+<day>Fri</day>
+<date>Mar 3</date>
+<time>11am</time>
 <venue>Onandaga College</venue>
-<location>Syracuse NY </location>
+<location>Syracuse NY</location>
 <phone>(315) 469-7741</phone>
 </gig>
 <gig>
 <issue_num>4</issue_num>
-<day> Fri </day>
-<date>Mar 3 </date>
+<day>Fri</day>
+<date>Mar 3</date>
 <time>10pm</time>
 <venue>Old City Hall</venue>
-<location>Oswego NY </location>
+<location>Oswego NY</location>
 <phone>(315) 343-9453</phone>
 </gig>
 <gig>
 <issue_num>4</issue_num>
-<day>Sat </day>
-<date>Mar 4 </date>
+<day>Sat</day>
+<date>Mar 4</date>
 <time>10pm</time>
 <venue>University of Rochester - OX</venue>
-<location>Rochester, NY </location>
+<location>Rochester, NY</location>
 <phone>(716) 274-4901</phone>
 </gig>
 <gig>
 <issue_num>4</issue_num>
-<day>Fri </day>
-<date>Mar 10 </date>
-<time>11pm </time>
+<day>Fri</day>
+<date>Mar 10</date>
+<time>11pm</time>
 <venue>New Music Cafe</venue>
 <location>New York, NY</location>
-<phone> (212) 941-0900</phone>
+<phone>(212) 941-0900</phone>
 </gig>
 <gig>
 <issue_num>4</issue_num>
-<day>Sat </day>
+<day>Sat</day>
 <date>Mar 11</date>
-<time>8 pm </time>
+<time>8 pm</time>
 <venue>Cayuga College</venue>
-<location>Auburn NY </location>
+<location>Auburn NY</location>
 <phone>(315) 252-9276</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>THU </day>
+<day>THU</day>
 <date>MAR 3</date>
-<time>10pm </time>
-<venue>Desmond's Tavern </venue>
-<location>New York, NY </location>
-<phone>(212) 685.0901 </phone>
-</gig>
-<gig>
-<issue_num>5</issue_num>
-<day>SAT </day>
-<date>MAR 5</date>
-<time>11pm </time>
-<venue>The Lion's Den </venue>
-<location>Greenfield. MA</location>
-<phone> (212) 477.2782</phone>
-</gig>
-<gig>
-<issue_num>5</issue_num>
-<day>THU </day>
-<date>MAR 10 </date>
-<time>10pm </time>
+<time>10pm</time>
 <venue>Desmond's Tavern</venue>
-<location> New York, NY</location>
-<phone> (212) 685-0901 </phone>
+<location>New York, NY</location>
+<phone>(212) 685.0901</phone>
+</gig>
+<gig>
+<issue_num>5</issue_num>
+<day>SAT</day>
+<date>MAR 5</date>
+<time>11pm</time>
+<venue>The Lion's Den</venue>
+<location>Greenfield. MA</location>
+<phone>(212) 477.2782</phone>
+</gig>
+<gig>
+<issue_num>5</issue_num>
+<day>THU</day>
+<date>MAR 10</date>
+<time>10pm</time>
+<venue>Desmond's Tavern</venue>
+<location>New York, NY</location>
+<phone>(212) 685-0901</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
 <day>FRI</day>
 <date>MAR 11</date>
-<time>10pm </time>
-<venue>West Side Cheers </venue>
-<location>Binghampton, NY </location>
+<time>10pm</time>
+<venue>West Side Cheers</venue>
+<location>Binghampton, NY</location>
 <phone>(607) 723.3205</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day> SAT </day>
-<date>MAR 12 </date>
-<time>1pm </time>
-<venue>SUNY Bingham </venue>
-<location>pton Live TV 61 </location>
-<phone>Radio Simulcast Concert </phone>
+<day>SAT</day>
+<date>MAR 12</date>
+<time>1pm</time>
+<venue>SUNY Bingham</venue>
+<location>pton Live TV 61</location>
+<phone>Radio Simulcast Concert</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>WED </day>
-<date>MAR 16 </date>
-<time>9pm </time>
-<venue>The Nines </venue>
-<location>Ithaca, NY </location>
+<day>WED</day>
+<date>MAR 16</date>
+<time>9pm</time>
+<venue>The Nines</venue>
+<location>Ithaca, NY</location>
 <phone>(212) 229-2122</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>THU </day>
-<date>MAR 17  </date>
+<day>THU</day>
+<date>MAR 17 </date>
 <time>9pm</time>
-<venue>Filthy McNasry's </venue>
-<location>Seneca Falls, NY </location>
+<venue>Filthy McNasry's</venue>
+<location>Seneca Falls, NY</location>
 <phone>(315) 568-2323</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>FRI </day>
-<date>MAR 18 </date>
-<time>10pm </time>
-<venue>East L.A. </venue>
+<day>FRI</day>
+<date>MAR 18</date>
+<time>10pm</time>
+<venue>East L.A.</venue>
 <location>Syracuse, NY</location>
-<phone> (315) 471.1148</phone>
+<phone>(315) 471.1148</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>SAT </day>
-<date> MAR 19</date>
-<time>10pm </time>
-<venue>Old City Hall </venue>
+<day>SAT</day>
+<date>MAR 19</date>
+<time>10pm</time>
+<venue>Old City Hall</venue>
 <location>Oswego, NY</location>
-<phone> (315) 343.2012</phone>
+<phone>(315) 343.2012</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>MON </day>
-<date>MAR 21 </date>
-<time>10pm </time>
-<venue>Nightingales </venue>
-<location>New York, NY </location>
+<day>MON</day>
+<date>MAR 21</date>
+<time>10pm</time>
+<venue>Nightingales</venue>
+<location>New York, NY</location>
 <phone>(212) 473.9398</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>THU </day>
-<date>MAR 24 </date>
-<time>10pm </time>
-<venue>Desmond's Tavern </venue>
-<location>New York, NY </location>
+<day>THU</day>
+<date>MAR 24</date>
+<time>10pm</time>
+<venue>Desmond's Tavern</venue>
+<location>New York, NY</location>
 <phone>(212) 685.0901</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>FRI </day>
-<date>MAR 25 </date>
-<time>9pm </time>
+<day>FRI</day>
+<date>MAR 25</date>
+<time>9pm</time>
 <venue>The Hotel Rhinecliff</venue>
-<location> Rhinecliff, NY</location>
-<phone> (914) 876-8688</phone>
+<location>Rhinecliff, NY</location>
+<phone>(914) 876-8688</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>MON </day>
-<date>MAR 26 </date>
-<time>lOpm </time>
-<venue>The Court Tavern </venue>
-<location>New Brunswick, N) </location>
+<day>MON</day>
+<date>MAR 26</date>
+<time>lOpm</time>
+<venue>The Court Tavern</venue>
+<location>New Brunswick, N)</location>
 <phone>(908) 545.7265</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>THU </day>
+<day>THU</day>
 <date>MAR 31</date>
-<time> lOpm </time>
-<venue>The Cabaret </venue>
-<location>Ardmore, PA </location>
-<phone>(215) 688.4600 </phone>
+<time>lOpm</time>
+<venue>The Cabaret</venue>
+<location>Ardmore, PA</location>
+<phone>(215) 688.4600</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
 <day>FRI</day>
-<date> APR 1</date>
-<time> 9pm </time>
-<venue>Images </venue>
-<location>Suffern, NY </location>
+<date>APR 1</date>
+<time>9pm</time>
+<venue>Images</venue>
+<location>Suffern, NY</location>
 <phone></phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>MON </day>
-<date>APR 4 </date>
-<time>9pm </time>
-<venue>The Jukebox  </venue>
+<day>MON</day>
+<date>APR 4</date>
+<time>9pm</time>
+<venue>The Jukebox </venue>
 <location>Long Island, NY</location>
 <phone></phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
 <day>THU</day>
-<date> APR 7</date>
-<time> lOpm </time>
-<venue>Desmond's Tavern </venue>
-<location>New York, NY </location>
-<phone>(212) 685.0901 </phone>
+<date>APR 7</date>
+<time>lOpm</time>
+<venue>Desmond's Tavern</venue>
+<location>New York, NY</location>
+<phone>(212) 685.0901</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
 <day>FRI</day>
-<date> APR 8 </date>
-<time>I ipm </time>
+<date>APR 8</date>
+<time>I ipm</time>
 <venue>Ludlow Scree( Cafe</venue>
-<location> New York, NY</location>
-<phone> (212) 353.0536</phone>
+<location>New York, NY</location>
+<phone>(212) 353.0536</phone>
 </gig>
 <gig>
 <issue_num>5</issue_num>
-<day>SAT </day>
+<day>SAT</day>
 <date>APR 9</date>
-<time> 10pm </time>
+<time>10pm</time>
 <venue>Star Cantina</venue>
-<location> Rhinestone, NY </location>
-<phone>(914) 876.8616 </phone>
+<location>Rhinestone, NY</location>
+<phone>(914) 876.8616</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
 <day>SAT</day>
 <date>APR 30</date>
 <time>8pm</time>
-<venue>University of Rochester w/Violent Femmes </venue>
+<venue>University of Rochester w/Violent Femmes</venue>
 <location>Rochester, NY</location>
-<phone>(716) 275-2332 </phone>
+<phone>(716) 275-2332</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
-<day>WED </day>
+<day>WED</day>
 <date>MAY 11</date>
-<time>8pm </time>
-<venue>Boo Boo's </venue>
+<time>8pm</time>
+<venue>Boo Boo's</venue>
 <location>Hoboken NJ</location>
-<phone> (201)659-1644</phone>
+<phone>(201)659-1644</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
 <day>THU</day>
-<date>MAY 12 </date>
-<time>9pm </time>
-<venue>Desmond's </venue>
-<location>New York NY </location>
+<date>MAY 12</date>
+<time>9pm</time>
+<venue>Desmond's</venue>
+<location>New York NY</location>
 <phone>(212)685.0901</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
-<day>SAT </day>
+<day>SAT</day>
 <date>MAY 14</date>
-<time> lOpm </time>
-<venue>23 East Cabaret </venue>
-<location>Ardmore PA </location>
+<time>lOpm</time>
+<venue>23 East Cabaret</venue>
+<location>Ardmore PA</location>
 <phone>(215)688-4600</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
-<day>THU </day>
-<date>MAY 19 </date>
-<time>9pm </time>
-<venue>Desmond's </venue>
-<location>New York NY </location>
+<day>THU</day>
+<date>MAY 19</date>
+<time>9pm</time>
+<venue>Desmond's</venue>
+<location>New York NY</location>
 <phone>(212)615-0901</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
-<day>FRI </day>
-<date>MAY 20 </date>
-<time>I I pm </time>
-<venue>Ludlow St. Cafe </venue>
-<location>New York NY </location>
+<day>FRI</day>
+<date>MAY 20</date>
+<time>I I pm</time>
+<venue>Ludlow St. Cafe</venue>
+<location>New York NY</location>
 <phone>(212)353-0336</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
-<day>MON </day>
+<day>MON</day>
 <date>MAY 23</date>
-<time> lOpm </time>
-<venue>Nightingale's </venue>
-<location>New York NY </location>
+<time>lOpm</time>
+<venue>Nightingale's</venue>
+<location>New York NY</location>
 <phone>(212)473-9398</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
-<day>TUE </day>
-<date>MAY 24 </date>
+<day>TUE</day>
+<date>MAY 24</date>
 <time>10pm</time>
 <venue>Rock Ridge Saloon</venue>
-<location>NYC- Guitar World Magazine Party </location>
-<phone></phone>
-</gig>
-<gig>
-<issue_num>6</issue_num>
-<day>THU </day>
-<date>MAY 26 </date>
-<time>9pm </time>
-<venue>Desmond's</venue>
-<location> New York NY </location>
-<phone>(2121685.0901</phone>
-</gig>
-<gig>
-<issue_num>6</issue_num>
-<day>FRI </day>
-<date>MAY 27 </date>
-<time>11pm </time>
-<venue>The Lion's Den </venue>
-<location>New York NY </location>
-<phone>(212)477-2782</phone>
-</gig>
-<gig>
-<issue_num>6</issue_num>
-<day>SAT </day>
-<date>MAY 28 </date>
-<time>10pm </time>
-<venue>7 Willow Street </venue>
-<location>Portchester NY</location>
-<phone> (914)939-1474 </phone>
-</gig>
-<gig>
-<issue_num>6</issue_num>
-<day>SUN </day>
-<date>MAY 29</date>
-<time>10pm </time>
-<venue>7 Willow Street</venue>
-<location>2 day Funkfest w/ Milo Z and Z Funk  </location>
+<location>NYC- Guitar World Magazine Party</location>
 <phone></phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
 <day>THU</day>
-<date> JUN 2 </date>
-<time>9pm </time>
-<venue>Desmond's </venue>
-<location>New York NY</location>
-<phone> (212)610-0901</phone>
-</gig>
-<gig>
-<issue_num>6</issue_num>
-<day>FRI </day>
-<date>JUN 3 </date>
-<time>10 pm</time>
-<venue>The Court Tavern</venue>
-<location>New Brunswick, NJ </location>
-<phone>(908) 545-7265</phone>
-</gig>
-<gig>
-<issue_num>6</issue_num>
-<day>THU </day>
-<date>JUN 9 </date>
+<date>MAY 26</date>
 <time>9pm</time>
-<venue>Desmond's </venue>
-<location>New York NY </location>
-<phone>(212)685-0901</phone>
-</gig>
-<gig>
-<issue_num>6</issue_num>
-<day>WED </day>
-<date>JUN 15</date>
-<time>10pm</time>
-<venue>The Bitter End</venue>
-<location> New York NY</location>
-<phone> (212)673-7030</phone>
-</gig>
-<gig>
-<issue_num>6</issue_num>
-<day>THU </day>
-<date>JUN 16 </date>
-<time>9pm </time>
-<venue>Desmond's </venue>
+<venue>Desmond's</venue>
 <location>New York NY</location>
-<phone> (212)685-0901</phone>
+<phone>(2121685.0901</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
 <day>FRI</day>
-<date> JUN 17 </date>
+<date>MAY 27</date>
+<time>11pm</time>
+<venue>The Lion's Den</venue>
+<location>New York NY</location>
+<phone>(212)477-2782</phone>
+</gig>
+<gig>
+<issue_num>6</issue_num>
+<day>SAT</day>
+<date>MAY 28</date>
+<time>10pm</time>
+<venue>7 Willow Street</venue>
+<location>Portchester NY</location>
+<phone>(914)939-1474</phone>
+</gig>
+<gig>
+<issue_num>6</issue_num>
+<day>SUN</day>
+<date>MAY 29</date>
+<time>10pm</time>
+<venue>7 Willow Street</venue>
+<location>2 day Funkfest w/ Milo Z and Z Funk </location>
+<phone></phone>
+</gig>
+<gig>
+<issue_num>6</issue_num>
+<day>THU</day>
+<date>JUN 2</date>
+<time>9pm</time>
+<venue>Desmond's</venue>
+<location>New York NY</location>
+<phone>(212)610-0901</phone>
+</gig>
+<gig>
+<issue_num>6</issue_num>
+<day>FRI</day>
+<date>JUN 3</date>
+<time>10 pm</time>
+<venue>The Court Tavern</venue>
+<location>New Brunswick, NJ</location>
+<phone>(908) 545-7265</phone>
+</gig>
+<gig>
+<issue_num>6</issue_num>
+<day>THU</day>
+<date>JUN 9</date>
+<time>9pm</time>
+<venue>Desmond's</venue>
+<location>New York NY</location>
+<phone>(212)685-0901</phone>
+</gig>
+<gig>
+<issue_num>6</issue_num>
+<day>WED</day>
+<date>JUN 15</date>
+<time>10pm</time>
+<venue>The Bitter End</venue>
+<location>New York NY</location>
+<phone>(212)673-7030</phone>
+</gig>
+<gig>
+<issue_num>6</issue_num>
+<day>THU</day>
+<date>JUN 16</date>
+<time>9pm</time>
+<venue>Desmond's</venue>
+<location>New York NY</location>
+<phone>(212)685-0901</phone>
+</gig>
+<gig>
+<issue_num>6</issue_num>
+<day>FRI</day>
+<date>JUN 17</date>
 <time>8pm</time>
 <venue>Arch Street Teen Center</venue>
-<location>Greenwich CT </location>
-<phone>(203)629-57 </phone>
+<location>Greenwich CT</location>
+<phone>(203)629-57</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
 <day>SAT</day>
 <date>JUN 18</date>
 <time>10pm</time>
-<venue>Live Tonight </venue>
-<location>Hoboken NJ </location>
+<venue>Live Tonight</venue>
+<location>Hoboken NJ</location>
 <phone>(201)795-9606</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
-<day>FRI </day>
-<date>JUN 23 </date>
-<time>9pm </time>
-<venue>Desmond's </venue>
+<day>FRI</day>
+<date>JUN 23</date>
+<time>9pm</time>
+<venue>Desmond's</venue>
 <location>New York NY</location>
-<phone> (212)685-0901 </phone>
+<phone>(212)685-0901</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
-<day>FRI </day>
+<day>FRI</day>
 <date>JUN 24</date>
 <time>11pm</time>
 <venue>Barnaby's II</venue>
 <location>Center Reach NY</location>
-<phone> (516)348-7718</phone>
+<phone>(516)348-7718</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
@@ -803,20 +803,146 @@
 </gig>
 <gig>
 <issue_num>6</issue_num>
-<day>SAT </day>
-<date>JUL 2 </date>
-<time>7pm </time>
-<venue>Filthy McNasty's </venue>
+<day>SAT</day>
+<date>JUL 2</date>
+<time>7pm</time>
+<venue>Filthy McNasty's</venue>
 <location>Seneca Falls NY</location>
 <phone>(313)568-2323</phone>
 </gig>
 <gig>
 <issue_num>6</issue_num>
-<day>SUN </day>
-<date>JUL 3 </date>
-<time>2pm </time>
-<venue>Polish Picnic </venue>
-<location>Greenfield MA </location>
-<phone>(413) 773-9025 </phone>
+<day>SUN</day>
+<date>JUL 3</date>
+<time>2pm</time>
+<venue>Polish Picnic</venue>
+<location>Greenfield MA</location>
+<phone>(413) 773-9025</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>THU</day>
+<date>AUG 4</date>
+<time>9pm</time>
+<venue>Desmond's</venue>
+<location>New York NY</location>
+<phone>(212) 685-0901</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>SAT</day>
+<date>AUG 6</date>
+<time>10pri.</time>
+<venue>Nobody's Inn</venue>
+<location>Mahwah NJ</location>
+<phone>(201) 529-2357</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>THU</day>
+<date>AUG 11</date>
+<time>9pm</time>
+<venue>Desmond's</venue>
+<location>New York NY</location>
+<phone>(212) 685.0901</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>FRI</day>
+<date>AUG 12</date>
+<time>10pm</time>
+<venue>Starr Cantina</venue>
+<location>Rhinebeck NY</location>
+<phone>(914) 876-6816</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>MON</day>
+<date>AUG 15</date>
+<time>IOpm</time>
+<venue>Nightingales</venue>
+<location>New York NY</location>
+<phone>(212) 473-9398</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>THU</day>
+<date>AUG 11</date>
+<time>9pm</time>
+<venue>Desmond's</venue>
+<location>New York NY</location>
+<phone>(212)685.0901</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>FRI</day>
+<date>AUG 19</date>
+<time>Ilpm</time>
+<venue>Ludlow St.Cafe</venue>
+<location>New York NY</location>
+<phone>(212)353.0536</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>SAT</day>
+<date>AUG 20</date>
+<time>lOpm</time>
+<venue>Nobody's Inn</venue>
+<location>Mahwah NJ</location>
+<phone>(201) 529-2357</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>FRI</day>
+<date>AUG 26</date>
+<time>11pm</time>
+<venue>7 Willow Street</venue>
+<location>Poncho:stet NY</location>
+<phone>(914) 939-1474</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>FRI</day>
+<date>SEP 2</date>
+<time>8pm</time>
+<venue>Lemoyne College</venue>
+<location>Syracuse NY</location>
+<phone>(315) 445-4526</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>SAT</day>
+<date>SEP 3</date>
+<time>lOpm</time>
+<venue>East L.A.</venue>
+<location>Syracuse NY</location>
+<phone>(315) 471-1148</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>FRI</day>
+<date>SEP 9</date>
+<time>11pm</time>
+<venue>New Music Cafe</venue>
+<location>New York NY</location>
+<phone>(212) 941-1008</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>FRI</day>
+<date>SEP 16</date>
+<time>10pm</time>
+<venue>Old City Hall</venue>
+<location>Oswego NY</location>
+<phone>(315) 343-9453</phone>
+</gig>
+<gig>
+<issue_num>8</issue_num>
+<day>SAT</day>
+<date>SEP 17</date>
+<time>8pm</time>
+<venue>SUNY Oswego</venue>
+<location>Oswego NY</location>
+<phone>(315) 342-3389</phone>
 </gig>
 </gigs>

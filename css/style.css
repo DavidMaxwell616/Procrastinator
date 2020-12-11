@@ -104,7 +104,7 @@ h1.invertsans {
 h1.invertsanstitle {
   color: white;
   background-color: black;
-  font-family: 'Helvetica';
+  font-family: 'Trebuchet MS';
   font-size: 102px;
 }
 table, th, td {
@@ -197,7 +197,10 @@ p {
   text-align: justify;
   text-justify: inter-word;
 }
-
+h2.justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
 .vBottom {
   position: absolute;
   top: 100%;
