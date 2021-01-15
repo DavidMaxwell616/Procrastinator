@@ -1134,5 +1134,68 @@
 <location>New York NY</location>
 <phone> (212) 686-4863 </phone>
 </gig>
+<gig>
+<issue_num>11</issue_num>
+<day>FRI </day>
+<date>DEC 23</date>
+<time>11 pm </time>
+<venue>Wetlands</venue>
+<location>New York NY </location>
+<phone>(212) 966-4225</phone>
+</gig>
+<gig>
+<issue_num>11</issue_num>
+<day>SAT </day>
+<date>DEC 31</date>
+<time>10pm </time>
+<venue>The Acme</venue>
+<location>New York NY </location>
+<phone>(212) 686-4863</phone>
+</gig>
+<gig>
+<issue_num>11</issue_num>
+<day>FRI </day>
+<date>JAN 6</date>
+<time>11imin </time>
+<venue>New Music Cafe</venue>
+<location>New York NY</location>
+<phone>(212) 941-0900</phone>
+</gig>
+<gig>
+<issue_num>11</issue_num>
+<day>FRI</day>
+<date>JAN 13</date>
+<time>10prn</time>
+<venue>Court Tavern</venue>
+<location>New Brunswick. NJ</location>
+<phone>(908) 545-7265</phone>
+</gig>
+<gig>
+<issue_num>11</issue_num>
+<day>FRI </day>
+<date>JAN 14</date>
+<time>11pm </time>
+<venue>New Music Cafe</venue>
+<location>New York NY</location>
+<phone>(212) 941-0900</phone>
+</gig>
+<gig>
+<issue_num>11</issue_num>
+<day>FRI </day>
+<date>JAN 27 </date>
+<time>10pm</time>
+<venue>Nobody's Inn</venue>
+<location>Mahwah NJ</location>
+<phone>(201) 529-2357</phone>
+</gig>
+<gig>
+<issue_num>11</issue_num>
+<day>SAT </day>
+<date>JAN 28 </date>
+<time>10pm</time>
+<venue>Cabaloosa</venue>
+<location>New Paltz NY </location>
+<phone>(914) 255-3400</phone>
+</gig>
 
 </gigs>
