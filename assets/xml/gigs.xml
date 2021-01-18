@@ -1197,5 +1197,77 @@
 <location>New Paltz NY </location>
 <phone>(914) 255-3400</phone>
 </gig>
+<gig>
+<issue_num>13</issue_num>
+<day>Thu</day>
+<date>April 27</date>
+<time>9pm</time>
+<venue>Zell's (Live Tonight) </venue>
+<location>Hoboken, NJ</location>
+<phone>(201) 795-9606</phone>
+</gig>
+<gig>
+<issue_num>13</issue_num>
+<day>Fri</day>
+<date>Apr 28</date>
+<time>11pm</time>
+<venue>Nazareth College</venue>
+<location>Rochester, NY</location>
+<phone>(716) 586-2525</phone>
+</gig>
+<gig>
+<issue_num>13</issue_num>
+<day>Sat</day>
+<date>Apr 29</date>
+<time>10pm</time>
+<venue>Eat L.A.</venue>
+<location>Syracuse, NY</location>
+<phone>(315) 471-1148</phone>
+</gig>
+<gig>
+<issue_num>13</issue_num>
+<day>Fri</day>
+<date>May 5</date>
+<time>10pm</time>
+<venue>The Cabaloosa</venue>
+<location>New Paltz, NY</location>
+<phone>(914) 255-3400</phone>
+</gig>
+<gig>
+<issue_num>13</issue_num>
+<day>Sat</day>
+<date>May 6</date>
+<time>2pm</time>
+<venue>East Stroudsburg University</venue>
+<location>E. Stroudsburg, PA</location>
+<phone>(717) 424-3396</phone>
+</gig>
+<gig>
+<issue_num>13</issue_num>
+<day>Sat</day>
+<date>May 6</date>
+<time>10pm</time>
+<venue>The Court Tavern</venue>
+<location>New Brunswick, NJ</location>
+<phone>(908) 545-7265</phone>
+</gig>
+<gig>
+<issue_num>13</issue_num>
+<day>Fri</day>
+<date>May 12</date>
+<time>10pm</time>
+<venue>The Globe Theatre </venue>
+<location>Norwalk, CT</location>
+<phone>(203) 866-2999</phone>
+</gig>
+<gig>
+<issue_num>13</issue_num>
+<day>Sat</day>
+<date>May 13</date>
+<time>10pm</time>
+<venue>Nobody's Inn</venue>
+<location>Mahwah, NJ</location>
+<phone>(201) 529-2357</phone>
+</gig>
 
 </gigs>
