@@ -1269,5 +1269,104 @@
 <location>Mahwah, NJ</location>
 <phone>(201) 529-2357</phone>
 </gig>
+<gig>
+<issue_num>14</issue_num>
+<day>Sat</day>
+<date>Sept 9</date>
+<time>11pm</time>
+<venue>Court Tavern</venue>
+<location>New Brunswick, NJ</location>
+<phone>(908) 545-7265</phone>
+</gig>
+<gig>
+<issue_num>14</issue_num>
+<day>Thu</day>
+<date> Sept 14 </date>
+<time>8pm </time>
+<venue>Lehigh University</venue>
+<location>Bethlehem PA </location>
+<phone>(610) 758-4187</phone>
+</gig>
+<gig>
+<issue_num>14</issue_num>
+<day>Fri</day>
+<date>Sept 15</date>
+<time>10pm</time>
+<venue>Old City Hall</venue>
+<location>Oswego, NY</location>
+<phone>51343-9453</phone>
+</gig>
+<gig>
+<issue_num>14</issue_num>
+<day>Sat</day>
+<date>Sept 16</date>
+<time>10pm</time>
+<venue>East L.A.</venue>
+<location>Syracuse, NY</location>
+<phone> (315) 471-1148</phone>
+</gig>
+<gig>
+<issue_num>14</issue_num>
+<day>Fri</day>
+<date>Oct 7</date>
+<time>11pm</time>
+<venue>Ludlow Street Cafe</venue>
+<location>New York, NY</location>
+<phone>(212) 353-0536</phone>
+</gig>
+<gig>
+<issue_num>14</issue_num>
+<day>Fri </day>
+<date>Oct 13 </date>
+<time>10pm</time>
+<venue>Wetlands</venue>
+<location>New York NY </location>
+<phone>(212) 966-4223</phone>
+</gig>
+<gig>
+<issue_num>14</issue_num>
+<day>Sat</day>
+<date>Oct 21</date>
+<time>11pm</time>
+<venue>Rum Runners</venue>
+<location>Genessee, NY</location>
+<phone>(315) 789-1290</phone>
+</gig>
+<gig>
+<issue_num>14</issue_num>
+<day>1Fri </day>
+<date>Nov 3  </date>
+<time>10pm </time>
+<venue>East L.A.</venue>
+<location>Syracuse NY</location>
+<phone>(315) 471-1148</phone>
+</gig>
+<gig>
+<issue_num>14</issue_num>
+<day>Sat</day>
+<date>Nov 4</date>
+<time>11pm</time>
+<venue>Old City Hall</venue>
+<location>Oswego, NY</location>
+<phone>(315) 343-9453</phone>
+</gig>
+<gig>
+<issue_num>14</issue_num>
+<day>Sat </day>
+<date>Nov 18  </date>
+<time>11pm </time>
+<venue>A.K.A.</venue>
+<location>New York NY </location>
+<phone>(212) 673.7325 </phone>
+</gig>
+<gig>
+<issue_num>14</issue_num>
+<day>Sat</day>
+<date>Nov 25</date>
+<time>10pm</time>
+<venue>Mother McGee's</venue>
+<location>Huntington, NY</location>
+<phone>(516) 271-1660</phone>
+</gig>
 
 </gigs>
