@@ -123,6 +123,8 @@ p.solid {
   border-style: solid;
   padding:5px;
 }
+span{ display: inline-block; margin:1em; } 
+.flip_Text{ transform: scale(-1, -1);  }
 
 p.dbl {
   border-style: double;
